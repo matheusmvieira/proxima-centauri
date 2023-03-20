@@ -10,6 +10,7 @@ https://minikube.sigs.k8s.io/docs/start/
     minikube delete --all
 
 ## ArgoCD
+https://argo-cd.readthedocs.io/en/stable/
 
     kubectl create namespace argocd
 <br>
